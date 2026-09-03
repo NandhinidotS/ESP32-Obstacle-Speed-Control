@@ -46,6 +46,12 @@ A **green LED** indicates a clear path, while the **red LED and buzzer** indicat
 
 ---
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](Circuit_diagram.png)
+
+---
+
 ## ⚙️ Working Principle
 
 The ultrasonic sensor sends a short trigger pulse and measures the time taken for the echo to return.
